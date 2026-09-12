@@ -13,7 +13,7 @@ const Main = () => {
                   <div className="flex gap-4 mt-20">
                     <button className="font-semibold text-white bg-gradient-to-r from-[#F97316] to-[#EC4899] 
                     p-2 rounded-lg">Explore Technologies</button>
-                    <button className="border-1 rounded-lg px-10 py-2 font-light text-gray-500">Learn More</button>
+                    <button className="border-1 border-gray-200 rounded-lg px-10 py-2 font-light text-gray-500">Learn More</button>
                   </div>
             </div>
             <div>
