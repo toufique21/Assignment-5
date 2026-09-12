@@ -1,4 +1,5 @@
 
+import Main from "./Components/Main"
 import Nav from "./Components/Nav"
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
   return (
     <>
       <Nav />
-      
+      <Main />
     </>
   )
 }
