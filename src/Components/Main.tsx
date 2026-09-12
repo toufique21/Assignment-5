@@ -11,7 +11,7 @@ const Main = () => {
                  compare them side by side, and put together the stack that fits your <br />
                   next project.</p>
                   <div className="flex gap-4 mt-20">
-                    <button className="font-semibold text-white bg-gradient-to-r from-[#F97316] to-[#EC4899] 
+                    <button className="font-semibold text-white bg-gradient-to-r from-[#FF5722] via-[#D81B7E] to-[#7C3AED] 
                     p-2 rounded-lg">Explore Technologies</button>
                     <button className="border-1 border-gray-200 rounded-lg px-10 py-2 font-light text-gray-500">Learn More</button>
                   </div>

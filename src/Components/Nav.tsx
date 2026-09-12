@@ -8,15 +8,15 @@ const Nav = () => {
                 <div>
                     <img src={Logo} alt="" />
                 </div>
-                <ul className="flex gap-4 justify-items-center">
-                    <li>Home</li>
+                <ul className="flex gap-4 justify-items-center text-gray-600 text-sm">
+                    <li className="text-[#DB2777]">Home</li>
                     <li>Technologies</li>
                     <li>Projects</li>
                     <li>About</li>
                     <li>Contact</li>
                 </ul>
                 <div className="flex gap-4">
-                    <button>Sign In</button>
+                    <button className="text-gray-600">Sign In</button>
                     <button className="nav-sign">Sign Up</button>
                 </div>
 
