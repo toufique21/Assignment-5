@@ -1,7 +1,6 @@
 import type { Dispatch, SetStateAction } from "react";
 import type { Icard } from "../../Type/cardType";
-import { TbTrash } from "react-icons/tb";
-import { RxCross1, RxCross2 } from "react-icons/rx";
+import { RxCross1 } from "react-icons/rx";
 import { toast } from "react-toastify";
 
 interface SelectedProps {

@@ -1,10 +1,10 @@
 export interface Icard {
-    "id": String;
-    "name": String;
-    "category": String;
-    "description": String;
-    "icon": String;
-    "rating": Number,
-    "difficulty": String;
-    "badge": String;
+    "id": string;
+    "name": string;
+    "category": string;
+    "description": string;
+    "icon": string;
+    "rating": number,
+    "difficulty": string;
+    "badge": string;
 }
