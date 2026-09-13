@@ -10,8 +10,7 @@ const Mid = () => {
             </div>
             <div>
 
-            </div>
-            <hr className="text-gray-100" />   
+            </div>  
         </div>
     );
 };
