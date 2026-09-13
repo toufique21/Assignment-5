@@ -1,4 +1,7 @@
----- Dev Stack -----
+
+----------------------------------------------
+                   Dev Stack
+----------------------------------------------
 
 Dev Stack is a simple web application that helps developers explore different technologies and build their own development stack. You can view technologies by their category, check their difficulty and rating, and add the ones you like to your personal stack.
 
