@@ -23,7 +23,7 @@ function App() {
       <Nav />
       <Main />
       <Mid />
-      <Suspense fallback={<h2>Loading....</h2>}>
+      <Suspense fallback={<h2 className="flex justify-center text-5xl text-gray-300">Loading....</h2>}>
         <Card cardPromise={cardPromise} />
       </Suspense>
       <Footer />

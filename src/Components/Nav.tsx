@@ -15,7 +15,7 @@ const Nav = () => {
                     <li>About</li>
                     <li>Contact</li>
                 </ul>
-                <div className="flex gap-4">
+                <div className="flex gap-4 text-sm">
                     <button className="text-gray-600">Sign In</button>
                     <button className="nav-sign">Sign Up</button>
                 </div>
